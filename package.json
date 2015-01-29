@@ -1,0 +1,19 @@
+{
+  "name": "api_practice",
+  "version": "1.0.0",
+  "description": "This is a practice file utilizing the Weather Underground API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ebrengle/api_practice.git"
+  },
+  "author": "Eric Brengle <eric.brengle@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ebrengle/api_practice/issues"
+  },
+  "homepage": "https://github.com/ebrengle/api_practice"
+}
